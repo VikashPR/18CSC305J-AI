@@ -1,6 +1,4 @@
 dp = [[-1 for i in range(3001)] for j in range(1001)]
-
-
 def recBananaCnt(A, B, C):
     if (B <= A):
         return 0
