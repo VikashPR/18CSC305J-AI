@@ -6,7 +6,6 @@ graph = {
     'E': ['F'],
     'F': []
 }
-
 visited_bfs = []
 queue = []
 
@@ -41,3 +40,5 @@ bfs(visited_bfs, graph, 'A')
 print('\n')
 print("DFS:", end=" ")
 dfs(visited, graph, 'A')
+
+print(test[0])
