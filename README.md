@@ -1,5 +1,5 @@
 # 18CSC305J-AI-LAB 
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 | Ex | Description | Link |
 | --- | --- | --- |
 | 1 | Implementation of toy problems | [Link](https://github.com/VikashPR/AI/blob/main/ToyProblem.py) |
