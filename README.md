@@ -1,4 +1,7 @@
 # 18CSC305J-AI-LAB 
+
+[![Hits](https://hits.sh/github.com/VikashPR/18CSC305J-AI.svg?extraCount=3588)](https://hits.sh/github.com/VikashPR/18CSC305J-AI/)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 | Ex | Description | Link |
 | --- | --- | --- |
