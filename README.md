@@ -17,6 +17,15 @@
 | 9 | Implementation of NLP programs | [Link](https://github.com/VikashPR/AI/blob/main/NLP.py) |
 | 10 | Applying deep learning methods to solve an application | [Link](https://github.com/VikashPR/AI/blob/main/DeepLearning.py) |
 
+
+## More contributions by the same author
+| Subject Code | Subject Name| Repo Link |
+| -- | -- | -- |
+| 18CSC304J-CD | Compiler Design | [View➚](https://github.com/VikashPR/18CSC304J-CD) | 
+| 18CSC303J-DBMS | Database management system | [View➚](https://github.com/VikashPR/18CSC303J-DBMS) | 
+| 18CSE316J-DEVOPS | Essentials in Cloud and Devops | [View➚](https://github.com/VikashPR/18CSE316J-DEVOPS) | 
+
+
 ## Credit for being partners in crime 
 
 <p align="left">
