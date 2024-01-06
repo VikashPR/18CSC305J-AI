@@ -18,7 +18,7 @@
 | 10 | Applying deep learning methods to solve an application | [View➚](https://github.com/VikashPR/AI/blob/main/DeepLearning.py) |
 
 
-## More contributions by the same author
+## More contributions by the same author 🚀
 | Subject Code | Subject Name| Repo Link |
 | -- | -- | -- |
 | 18CSC304J-CD | Compiler Design | [View➚](https://github.com/VikashPR/18CSC304J-CD) | 
@@ -26,7 +26,7 @@
 | 18CSE316J-DEVOPS | Essentials in Cloud and Devops | [View➚](https://github.com/VikashPR/18CSE316J-DEVOPS) | 
 
 
-## Credit for being partners in crime 
+## Credit for being partners in crime
 
 <p align="left">
   <a  href="https://openai.com/blog/chatgpt" target="_blank">
